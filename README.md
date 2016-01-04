@@ -1,7 +1,4 @@
-# Eind_Project
-
-SabSound sound reverberation tool
----------------------------------
+# SabSound sound reverberation tool
 
 SabSound will give the user the ability to calculate the reverberation time of a, by the user specified space.
 The user will be able to make new "rooms" in the app, add materials and calculate the reverberation time using the Sabine formula.
