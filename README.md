@@ -52,6 +52,7 @@ As the displayed reverberation times in the room screen will be enough to get a 
 API's
 -----
 - Graph API, an external API that imports the ability to show a simply line- graph will most likely be needed.
+- SQLite for storing and adding materials and their values.
 
 Potential problems
 -------------------
