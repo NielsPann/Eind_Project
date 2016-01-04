@@ -11,7 +11,7 @@ Using this app, the user can easily calculate the reverberation time of a certai
 
 sketch
 ------
-![](doc/img1.jpg)
+<img src="doc/img1.jpg"alt="User Interface menu" height="500" width="275">
 ![](doc/img2.jpg)
 ![](doc/img3.jpg)
 ![](doc/img4.jpg)
