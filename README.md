@@ -56,7 +56,7 @@ API's
 Potential problems
 -------------------
 A potential problem could appear in the importation of the material library and giving the user the ability to add new data into this.
-Each material has a name and six different frequency absorption values. How to import this and make it editable could become a challange.
+Each material has a name and six different frequency absorption values. How to import this and make it editable could become a challange. This will probebly be solved using SQLite.
 
 Similar apps
 ------------
